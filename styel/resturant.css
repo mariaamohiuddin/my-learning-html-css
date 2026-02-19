@@ -1,0 +1,128 @@
+header{color: rgba(69, 7, 214, 0.655);
+text-align: center;
+background-color: rgba(229, 247, 152, 0.911);
+width: 20%;
+height: 40px;
+
+border-top-right-radius: 20px ;
+border-bottom-left-radius: 20px;
+border: 4px dotted;
+margin-bottom: 10px;
+/* margin-left: 10px; */
+margin: auto;
+padding-bottom: 30px;
+box-shadow: 20px 10px 15px chocolate;
+}
+.greeting{
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color:rgb(3, 103, 3);
+margin: auto;
+margin-top: 30px ;
+
+/* margin: 30px 100px 10px 10px; */
+text-align: center;
+font-weight: 700;
+}
+.ACCOUNT{
+    margin: auto;
+    margin-left: 40px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-weight: 600;
+}
+.inputs{
+margin-left: 40px;
+margin-bottom: 20px;
+color: rgb(9, 9, 138);
+}
+.inputfield{
+    margin-bottom: 10px;
+    height: 20px;
+    padding: 5px;
+border-bottom-left-radius: 10px;
+
+}
+.button{
+background-color: rgba(12, 5, 110, 0.744);
+color: aliceblue;
+height: 30px;
+border-bottom-left-radius: 10px;
+}
+.date{
+    border-bottom-left-radius: 5px;
+padding: 5px;
+    /* height: 10px; */
+}
+.number{
+    color:brown;
+    border-bottom-left-radius: 5px;
+    padding: 5px;
+}
+.img{      margin: 10px 90px 30px 40px ;
+                /* align-items:center ; */
+                }
+                .Menu{
+                    font-style: oblique ;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    padding: 20px;
+                    margin-left: 20px;
+                    text-align: center;
+                    background-color: #76c0eed4;
+                    border-top-left-radius: 50px;
+                    border-bottom-right-radius: 50px;
+/* border: 30px rgb(140, 6, 33); */
+text-shadow: 20px 10px 10px rgba(23, 3, 139, 0.744);
+font-weight: 700;
+box-shadow: 30px 15px 30px rgb(221, 237, 100);
+                }
+
+
+                .main{
+margin-left: 20px;
+padding-top: 5px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+/* font-weight: 800; */
+                }
+                .desert{
+color: rgba(2, 100, 35, 0.847);
+box-shadow: 20px 10px 30px ;
+padding: 5px 10px 5px 10px;
+
+}
+.meal{
+    color: rgba(2, 100, 35, 0.847);
+box-shadow: 20px 10px 30px ;
+padding: 5px 10px 5px 10px;
+
+}
+.option{
+padding-right: 5px;
+padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-top: 5px;
+    background-color: black;
+    color: rgb(235, 250, 32);
+}
+.Click{
+    margin-bottom: 20px;
+    box-shadow: 5px 10px 20px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px 5px 10px 5px ;
+    background-color: rgba(243, 211, 31, 0.961);
+}
+.end{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.more{
+    margin-top: 5px;
+    padding-left: 5px;
+    background-color: rgb(190, 253, 255);
+}
+.foot{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+text-align: center;
+text-shadow: 10px 5px 5px rgb(69, 207, 245) ;
+}
